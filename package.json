@@ -1,0 +1,9 @@
+{
+    "name": "pretty-good-prng",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "files": [
+        "src",
+        "LICENSE"
+    ]
+}
